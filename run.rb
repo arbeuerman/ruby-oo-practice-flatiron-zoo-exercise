@@ -7,6 +7,7 @@ require 'pry'
 
 chicago_lincoln_park = Zoo.new("Lincoln Park Zoo","Lincoln Park")
 san_diego_zoo = Zoo.new("San Diego Zoo", "San Diego")
+second_SD_zoo = Zoo.new("San Diego Zoo", "San Diego")
 
 
 lion = Animal.new("Big Cat", 420, "Sally", chicago_lincoln_park)
